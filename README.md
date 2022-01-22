@@ -1,0 +1,2 @@
+# generateRarityNft
+Generete Nfts Rarity
